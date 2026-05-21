@@ -1,16 +1,19 @@
 ## Hi there 👋
+# Hi, I'm Francis Okundia 👋
 
-<!--
-**Okd-tech/okd-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast currently learning DevOps, cloud computing, and software development. I enjoy building projects, exploring automation tools, and improving my skills in Git, GitHub, Linux, Docker, and AWS.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- DevOps & Cloud Engineering
+- Git & GitHub
+- Linux & Bash
+- Docker & Kubernetes
+- Markdown Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning Journey
+I’m continuously learning and building projects to grow my experience in modern software engineering and cloud technologies.
+
+## 🌱 Goals
+- Build real-world cloud and DevOps projects
+- Contribute to open-source
+- Grow into a remote cloud/devops engineering role
